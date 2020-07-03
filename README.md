@@ -6,3 +6,4 @@
 This repo has the files and notes for lecture 1 and 2
 `highlights`
 
+https://colab.research.google.com/github/TheLongPatrol/PGSSLecture2Repo/blob/master/myFirstScript.ipynb
