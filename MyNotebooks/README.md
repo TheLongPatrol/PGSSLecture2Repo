@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheLongPatrol/PGSSLecture2Repo/edit/master/MyFirstNotebook/myFirstScript.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheLongPatrol/PGSSLecture2Repo/edit/master/MyNotebooks/myFirstScript.ipynb)
